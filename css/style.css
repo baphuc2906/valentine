@@ -1,16 +1,16 @@
 html {
-    height: 100%
+    height: 100%;
 }
 
 body {
     height: 100%;
     margin: 0;
     padding: 0;
-    background-color: #F0DADA;
+    background-color: #f0dada;
 }
 
 #map_canvas {
-    height: 100%
+    height: 100%;
 }
 
 .card {
@@ -21,7 +21,7 @@ body {
 }
 
 .centered {
-    position: fixed;
+    position: absolute;
     top: 50%;
     left: 50%;
     margin-top: -330px;
@@ -32,7 +32,7 @@ body {
     justify-content: center;
     display: flex;
     font-weight: 800;
-    color: #EF3F7D;
+    color: #ef3f7d;
     padding-top: 10px;
     font-size: 23px;
     padding-bottom: 10px;
@@ -57,7 +57,7 @@ body {
     width: 100%;
     height: 0px;
     z-index: 99999;
-    background-color: #F0DADA;
+    background-color: #f0dada;
 }
 
 #end_text {
